@@ -31,7 +31,7 @@ If you like my work then please consider supporting me with [Ko-fi](https://ko-f
    3. [Directory Structure](#directory-structure)
    4. [Starting From Scratch](#starting-from-scratch)
 3. [Configuration](#configuration)
-   1. [Sample Posts](#sample-posts)
+   1. [House](#house)
    2. [Site Variables](#site-variables)
    3. [Adding Menu Pages](#adding-menu-pages)
    4. [Posts](#posts)
